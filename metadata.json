@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of UniPlus Super-App",
+  "description": "A comprehensive university ecosystem platform featuring AI assistants, student marketplace, digital identity, and administrative tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
